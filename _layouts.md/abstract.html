@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conference Abstract</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    
+    <style>
+        /* Base Styles & Centering */
+        body {
+            font-family: 'Lato', sans-serif;
+            background-color: #ffffff;
+            color: #000000;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+
+        /* The Small Box */
+        .abstract-container {
+            max-width: 650px;
+            width: 100%;
+            padding: 50px;
+            box-sizing: border-box;
+            border: 1px solid #f0f0f0; /* Very subtle border to define the box */
+            box-shadow: 0 10px 30px rgba(0,0,0,0.06); /* Elegant, soft shadow */
+            border-radius: 8px;
+            margin: 20px;
+        }
+
+        /* Typography & Colors */
+        h1.title {
+            color: #3470BF;
+            font-size: 26px;
+            margin-top: 0;
+            margin-bottom: 8px;
+            line-height: 1.2;
+        }
+
+        .author {
+            font-weight: 700;
+            font-size: 16px;
+            margin-bottom: 30px;
+        }
+
+        .abstract-text {
+            font-size: 16px;
+            line-height: 1.7;
+            margin-bottom: 40px;
+        }
+
+        /* References Section */
+        .references {
+            color: #808080;
+            font-size: 14px;
+            border-top: 1px solid #f0f0f0;
+            padding-top: 20px;
+        }
+
+        .references h3 {
+            font-size: 13px;
+            color: #808080;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-top: 0;
+            margin-bottom: 15px;
+        }
+
+        .references ul {
+            padding-left: 20px;
+            margin: 0;
+        }
+
+        .references li {
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+
+        /* Mobile Adjustments (Edge to Edge) */
+        @media (max-width: 600px) {
+            body {
+                align-items: flex-start; /* Push content to top */
+            }
+            .abstract-container {
+                margin: 0;
+                border: none;
+                box-shadow: none;
+                border-radius: 0;
+                padding: 30px 20px; /* Standard mobile padding */
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="abstract-container">
+        <h1 class="title">The Impact of Advanced Materials on Next-Generation Photovoltaics</h1>
+        <div class="author">Dr. Jane Doe, University of Technology</div>
+        
+        <div class="abstract-text">
+            <p>This study explores the integration of novel perovskite structures into traditional silicon-based solar cells. We demonstrate that by layering these materials, thermal energy loss is significantly reduced. We propose a new manufacturing paradigm that allows for scaling these hybrid cells without the typical efficiency degradation observed in laboratory settings. Ultimately, this approach could yield a 25% increase in total energy conversion.</p>
+        </div>
+        
+        <div class="references">
+            <h3>References</h3>
+            <ul>
+                <li>Smith, J., & Lee, A. (2025). <i>Modern Solar Architectures</i>. Journal of Renewable Energy, 45(2), 112-130.</li>
+                <li>Doe, J. (2024). <i>Overcoming Thermal Limits in Photovoltaics</i>. Advanced Physics Review.</li>
+            </ul>
+        </div>
+    </div>
+
+</body>
+</html>
