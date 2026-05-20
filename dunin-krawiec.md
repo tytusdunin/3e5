@@ -1,7 +1,10 @@
 ---
 layout: abstract
 title: "„To były moje wszystkie argumenty, które mogłem wymyślić do tak beznadziejnego tematu” – analiza stylometryczna wypowiedzi argumentacyjnych uczniów szkół podstawowych"
-author: "Tytus Dunin, Laura Krawiec | Uniwersytet Warszawski"
+authors:
+  - "Tytus Dunin"
+  - "Laura Krawiec"
+institution: "Uniwersytet Warszawski"
 date: "30.05.2026, 10:15"
 references:
   - "Eder M., Tekst w humanistyce cyfrowej. Modelowanie tematyczne, w: Od Gutenberga Do Zuckerberga. Wstęp do humanistyki cyfrowej, red. Adam Pawłowski, Kraków 2023, s. 149–164."

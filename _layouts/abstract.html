@@ -105,8 +105,15 @@
             <span style="background-color:#d0e4f7; color:#3470BF; padding:6px 18px; border-radius:999px; font-size:14px; font-weight:700; letter-spacing:0.5px;">{{ page.date }}</span>
         </div>
         {% endif %}
-        <h1 class="title">{{ page.title }}</h1>
-        <div class="author">{{ page.author }}</div>
+        <div style="display:flex; flex-wrap:wrap; gap:8px; margin-bottom:24px;">
+            {% for author in page.authors %}
+            <span style="background:#ffffff; color:#3470BF; border:1.5px solid #3470BF; padding:5px 14px; border-radius:999px; font-size:14px; font-weight:700;">{{ author }}</span>
+            {% endfor %}
+            {% if page.institution %}
+            <span style="background-color:#3470BF; color:#ffffff; padding:5px 14px; border-radius:999px; font-size:14px; font-weight:700;">{{ page.institution }}</span>
+            {% endif %}
+        </div>
+        <h1 class="title" style="font-style:italic;">{{ page.title }}</h1>
         
         <div class="abstract-text">
             {{ content }}
