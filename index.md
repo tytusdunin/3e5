@@ -4,7 +4,7 @@ title: "Efektywna, efektowna i etyczna komunikacja 5"
 subtitle: "»Szukając wspólnego języka«"
 ---
 
-Zaprzaszamy do przeglądania internetowej księgi abstraktów 5. edycji konferencji „Efektywna, efektowna i etyczna komunikacja”! Poniżej znajduje się spis wszystkich referatów przyjętych na tegoroczną konferencję. Po kliknięciu na tytuł referatu zostaną Państwo przeniesieni na stronę abstraktu, na której można przeczytać abstrakt oraz znaleźć informacje o godzinie wystąpienia, afiliacji autorów oraz bibliografię referatu (jeśli autor załączył ją w zgłoszeniu).
+Zaprzaszamy do przeglądania internetowej księgi abstraktów 5. edycji konferencji „Efektywna, efektowna i etyczna komunikacja”! Poniżej znajduje się spis wszystkich referatów przyjętych na tegoroczną konferencję. Po kliknięciu na tytuł referatu zostaną Państwo przeniesieni na stronę, na której można przeczytać abstrakt oraz znaleźć informacje o godzinie wystąpienia, afiliacji autorów oraz bibliografię referatu (jeśli autor załączył ją w zgłoszeniu).
 
 ## Dzień pierwszy (30 maja 2026)
 
