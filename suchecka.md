@@ -1,0 +1,10 @@
+---
+layout: abstract
+title: "Fonetyczna realizacja litery ę jako element zmian zachodzących we współczesnej polszczyźnie"
+authors:
+  - "Katarzyna Suchecka"
+institution: "Uniwersytet Warmińsko-Mazurski w Olsztynie"
+date: "31.05.2026, 13:30"
+---
+
+Celem artykułu jest sprawdzenie i opisanie poziomu fonetycznej realizacji litery ę we współczesnej polszczyźnie wśród studentów kierunków niefilologicznych. Zadaniem badanych było staranne odczytanie tekstu, będącego kombinacją kilkudziesięciu słów zawierających ę w wygłosie, w pozycji przed spółgłoskami szczelinowymi oraz przed l, ł. Za normę artykulacyjną przyjęto zasady wymowy ustalone przez Marka Wiśniewskiego. Mimo położenia ę w tych samych pozycjach w wyrazach, w badanym materiale dostrzeżono różne typy realizacji nosówki. Szczególną uwagę zwraca zjawisko doliterowości. Taka artykulacja ę jako grupy głoskowej [eũ̯] przed l, ł wydaje się być nienaturalna dla swobodnej mowy i niewygodna do ułożenia artykulatorów, co może sugerować, że ta realizacja jest silnie sprzężona ze specyfiką badania przeprowadzonego na tekście pisanym. Zauważono również utratę rezonansu nosowego w wygłosie wyrazu, która przybierała różnorodne formy. Natomiast w przypadku umiejscowienia ę w pozycji przed spółgłoskami szczelinowymi okazało się, że stan wymowy jest na dość wysokim poziomie. Uwagę zwraca jednak tendencja do zaniku realizacji ę jako [e] w zestawieniu z przednim nielabialnym glajdem nosowym [ĩ ̯] po spółgłosce twardej, a przed prepalatalną szczelinową. Na podstawie przeanalizowanego materiału badawczego można też stwierdzić, iż młodzi ludzie nie znają zasad realizacji samogłosek nosowych, a jeśli mają tę wiedzę, to z niej nie korzystają, Przeprowadzone badania rzetelnie ustaliły aktualny poziom jakości i efektowności komunikatu zawierającego słowa z literą ę, a także wskazały tendencje artykulacyjne we współczesnej polszczyźnie wśród studentów.
