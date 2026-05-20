@@ -99,20 +99,23 @@
 <body>
 
     <div class="abstract-container">
-        <h1 class="title">The Impact of Advanced Materials on Next-Generation Photovoltaics</h1>
-        <div class="author">Dr. Jane Doe, University of Technology</div>
+        <h1 class="title">{{ page.title }}</h1>
+        <div class="author">{{ page.author }}</div>
         
         <div class="abstract-text">
-            <p>This study explores the integration of novel perovskite structures into traditional silicon-based solar cells. We demonstrate that by layering these materials, thermal energy loss is significantly reduced. We propose a new manufacturing paradigm that allows for scaling these hybrid cells without the typical efficiency degradation observed in laboratory settings. Ultimately, this approach could yield a 25% increase in total energy conversion.</p>
+            {{ content }}
         </div>
         
+        {% if page.references %}
         <div class="references">
             <h3>References</h3>
             <ul>
-                <li>Smith, J., & Lee, A. (2025). <i>Modern Solar Architectures</i>. Journal of Renewable Energy, 45(2), 112-130.</li>
-                <li>Doe, J. (2024). <i>Overcoming Thermal Limits in Photovoltaics</i>. Advanced Physics Review.</li>
+                {% for ref in page.references %}
+                <li>{{ ref }}</li>
+                {% endfor %}
             </ul>
         </div>
+        {% endif %}
     </div>
 
 </body>
