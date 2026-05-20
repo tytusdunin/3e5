@@ -1,0 +1,14 @@
+---
+layout: abstract
+title: "Jak przygotować się do przeprowadzania badań językoznawczych w więzieniu – główne założenia i wstępne ustalenia projektu dotyczącego wpływu gwary więziennej na proces resocjalizacji"
+authors:
+  - "Justyna Gwoździk"
+institution: "Uniwersytet im. Adama Mickiewicza w Poznaniu "
+date: "30.05.2026, 16:45"
+---
+
+Przedmiotem prowadzonych przeze mnie rozważań jest komunikacja w zakładach karnych i aresztach śledczych. Chciałabym opowiedzieć Państwu o projekcie grantowym, realizowanym przeze mnie w ramach konkursu „Study@research”. Jego celem jest zbadanie wpływu świadomego posługiwania się gwarą więzienną przez funkcjonariuszy Służby Więziennej na proces resocjalizacji osadzonych. W środowisku penitencjarnym i literaturze przedmiotu pojawiają się zarzuty dotyczące tego, że prowadzi to do demoralizacji. Z moich wstępnych ustaleń wynika jednak, że gwara więzienna usprawnia i przyspiesza komunikację pomiędzy osadzonymi i funkcjonariuszami, dla których stała się ona swoistym narzędziem pracy. Jest to skuteczne: umożliwia szybkie zdobycie informacji niezbędnych do rozpoznania w środowisku, ogranicza ryzyko wystąpienia konfliktów, ułatwia rozmowy z grupą grypsujących osadzonych i pomaga zdobyć ich zachowanie. Drugim celem projektu jest sprawdzenie, czy wpływ komunikacji na resocjalizację może być na tyle istotny, by móc traktować ją jako jedną z form oddziaływania penitencjarnego. 
+
+Badania prowadzone w ramach niniejszego projektu mają przede wszystkim wymiar praktyczny. Z uwagi na ich interdyscyplinarny charakter dotychczasowe ustalenia językoznawców, socjologów i psychologów są istotne, ale materiału badawczego dostarczają głównie wizyty w poszczególnych jednostkach penitencjarnych (w Zakładach Karnych we Wronkach, Szamotułach i Gorzowie Wielkopolskim, Aresztach Śledczych w Szczecinie, Stargardzie, Poznaniu i Koziegłowach, a także wśród emerytowanych funkcjonariuszy z Aresztu Śledczego w Choszcznie). 
+
+Moim pierwotnym założeniem było opowiedzenie Państwu o pełnych wynikach przeprowadzanych przeze mnie badań, jednak z uwagi na opóźnienie spowodowane kilkumiesięcznym oczekiwaniem na zgodę Komisji Etycznej plan wystąpienia musiał ulec zmianie. W ramach referatu chciałabym przedstawić wstępne ustalenia dotyczące wpływu posługiwania się gwarą więzienną przez funkcjonariuszy SW na proces resocjalizacji osadzonych, pokazać swoje narzędzia badawcze (ankiety oraz arkusze eksperymentu komunikacyjnego, które wykorzystuję w  wśród osadzonych i funkcjonariuszy SW) oraz uwrażliwić słuchaczy na najważniejsze kwestie związane z przeprowadzaniem badań językoznawczych w więzieniu i trudnościami, które jako badacze możemy w takiej sytuacji spotkać.  
