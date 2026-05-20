@@ -1,6 +1,6 @@
 ---
 layout: abstract
-title: "A kto z nami nie wypije, tego smog zabije!, czyli karnawalizacja protestu w sloganach z polskich i francuskich młodzieżowych strajków ekologicznych "
+title: "A kto z nami nie wypije, tego smog zabije!, czyli karnawalizacja protestu w sloganach z polskich i francuskich młodzieżowych strajków ekologicznych"
 authors:
   - "Michalina Buler"
 institution: "Uniwersytet Mikołaja Kopernika w Toruniu"
