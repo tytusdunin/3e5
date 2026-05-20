@@ -41,3 +41,9 @@ Zaprzaszamy do przeglądania internetowej księgi abstraktów 5. edycji konferen
 * Antonina Szwarc, [„A słowo stało się ciałem” – inkluzywność w języku promptowania a wizualna reprezentacja ludzkiego wyglądu w GenAI](szwarc)
 * Natalia Herman, [Konstrukcje eliptyczne wyrażające stan podmiotu w polszczyźnie potocznej w ujęciu gramatyki konstrukcji opartej na znaku (Sign-Based Construction Grammar)](herman)
 * Katarzyna Suchecka, [Fonetyczna realizacja litery ę jako element zmian zachodzących we współczesnej polszczyźnie](suchecka)
+
+### PANEL 6 | **Komunikacja na pograniczu kultur**
+* Beata Kocisz, [Podobne brzmienie, różne znaczenie: polsko-rosyjskie homonimy w nauczaniu języka rosyjskiego](kocisz)
+* Bartosz Bardian, [Odmiana zaimka w polskim i innych językach migowych – przypadek konwergencji?](bardian)
+* Alicja Marszałkowska, [Swojskość jako fundament porozumienia. Kulturowe mechanizmy lokalizacji humoru w polskim dubbingu „Shreka”](marszalkowska)
+* Irma Kowalska, Błażej Bobowik, [Literackie back-translation? Mała, lecz maksymalistyczna propozycja](kowalska-bobowik)
