@@ -1,10 +1,10 @@
 ---
 layout: home
 title: "Efektywna, efektowna i etyczna komunikacja 5"
-subtitle: "Interaktywna księga abstraktów"
+subtitle: "»Szukając wspólnego języka«"
 ---
 
-Poniżej znajduje się interaktywna księga abstraktów.
+Zaprzaszamy do przeglądania internetowej księgi abstraktów 5. edycji konferencji „Efektywna, efektowna i etyczna komunikacja”! Poniżej znajduje się spis wszystkich referatów przyjętych na tegoroczną konferencję. Po kliknięciu na tytuł referatu zostaną Państwo przeniesieni na stronę abstraktu, na której można przeczytać abstrakt oraz znaleźc informacje o godzinie wystąpienia, afiliacji autorów oraz bibliografię referatu (jeśli autor załączył ją w zgłoszeniu).
 
 ## Dzień pierwszy (30 maja 2026)
 
@@ -21,7 +21,7 @@ Poniżej znajduje się interaktywna księga abstraktów.
 * Weronika Sudoł, [Strategie językowe w konstruowaniu wizerunku Karola Nawrockiego w czasie kampanii prezydenckiej 2025](sudol)
 * Michalina Buler, [A kto z nami nie wypije, tego smog zabije!, czyli karnawalizacja protestu w sloganach z polskich i francuskich młodzieżowych strajków ekologicznych](buler)
 
-### PANEL 3 | **Komunikacja empatyczna”**
+### PANEL 3 | **Komunikacja empatyczna**
 * Marta Okońska, [Komunikacja w rodzinie a motywacje wolontariuszy w okresie późnej adolescencji](okonska)
 * Gabriela Klasa, [Między stygmatem a inkluzywnością – o języku osób pracujących seksualnie](klasa)
 * Agata Barszcz, [Między godnością a bezradnością. Język eutanazji w perspektywie chorego i jego bliskich](barszcz)
