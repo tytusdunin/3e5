@@ -1,0 +1,10 @@
+---
+layout: abstract
+title: "Konstrukcje eliptyczne wyrażające stan podmiotu w polszczyźnie potocznej w ujęciu gramatyki konstrukcji opartej na znaku (Sign-Based Construction Grammar)"
+authors:
+  - "Natalia Herman"
+institution: "Uniwersytet Warszawski"
+date: "31.05.2026, 13:15"
+---
+
+Celem niniejszego wystąpienia jest umiejscowienie eliptycznych konstrukcji potocznych wyrażających stan podmiotu: ja jestem jak…, ja kiedy…, ja gdy…, ja jak… w polskim systemie językowym. Tradycyjna gramatyka wyklucza te konstrukcje, głównie ze względu na fakt, iż są one eliptyczne. Gramatyka konstrukcji oparta na znaku (SBCG) natomiast, która traktuje je jako znaki – frazy/zwroty gotowe do użycia, tłumaczy trafność oraz reguły ich używania. Zakłada, że każda z konstrukcji traktowana jako całość, mimo że jest eliptyczna, może być używana w tworzeniu pełnych zdań, które mają wyrażać stan/myśli podmiotu lub wprowadzać mowę niezależną. Analizie poddałam wybrane przykłady znalezione w internecie (platformy TikTok, X). Na ich przykładzie zamierzam wytłumaczyć, jak innowacyjne podejście gramatyki konstrukcji opartej na znaku rozszerza polski system językowy umożliwiając używanie takich konstrukcji, rozumianych jako znaki, bez wcześniejszego podziału na pojedyncze wyrazy i łączenia ich zgodnie z regułami gramatycznymi, jakie proponuje tradycyjna gramatyka. Umożliwia to tworzenie wypowiedzeń niezawierających orzeczenia, których użycie tradycyjna gramatyka zakłada wyłącznie w formie zdań pojedynczych lub złożonych podrzędnie. Choć przytoczone frazy/zwroty nie mieszczą się w polskiej normie językowej, to analiza wykazuje, że da się wytłumaczyć ich użycie oraz jego zasadność. Tego efektem są większa swoboda w  korzystaniu z języka oraz powstawanie uniwersalnych konstrukcji, gdzie jedna fraza/zwrot może przyjąć różne znaczenia w zależności od kontekstu.
