@@ -31,8 +31,13 @@ Zaprzaszamy do przeglądania internetowej księgi abstraktów 5. edycji konferen
 ## Dzień drugi (31 maja 2026)
 
 ### PANEL 4 | **Komunikacja w edukacji**
-
 * Weronika Uchnast, [Czy Twój bank mówi do Ciebie po ludzku? Analiza komunikacji bankowej z perspektywy standardu prostego języka](uchnast)
 * Aleksandra Mahmud, [Prosty język i komunikowanie w organizacjach pozarządowych na przykładzie Fundacji Teatr 21](mahmud)
 * Karolina Trzaskowska, [Język kultury czy narzędzie rehabilitacji? Proces prawnego uznania islandzkiego języka migowego](trzaskowska)
 * Katarzyna Samoń, Klaudia Celińska, [NJPJO kontekście medycznym: rozwijanie kompetencji językowych dla skutecznej komunikacji klinicznej](samon-celinska)
+
+### PANEL 5 | **Komunikacja w nowej rzeczywistości**
+* Urszula Pawłowska, [(De)humanizacja modeli językowych – o utrwalaniu się leksemów „agent AI” i „asystent AI” w polszczyźnie](pawlowska)
+* Antonina Szwarc, [„A słowo stało się ciałem” – inkluzywność w języku promptowania a wizualna reprezentacja ludzkiego wyglądu w GenAI](szwarc)
+* Natalia Herman, [Konstrukcje eliptyczne wyrażające stan podmiotu w polszczyźnie potocznej w ujęciu gramatyki konstrukcji opartej na znaku (Sign-Based Construction Grammar)](herman)
+* Katarzyna Suchecka, [Fonetyczna realizacja litery ę jako element zmian zachodzących we współczesnej polszczyźnie](suchecka)
