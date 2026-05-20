@@ -1,6 +1,6 @@
 ---
 layout: abstract
-title: "Przykład przekładu ostatecznego. Chwyty retoryczne wykorzystywane podczas promocji książki "Anne z Zielonych Szczytów" Lucy Maud Montgomery"
+title: "Przykład przekładu ostatecznego. Chwyty retoryczne wykorzystywane podczas promocji książki „Anne z Zielonych Szczytów” Lucy Maud Montgomery"
 authors:
   - "Paulina Jarosz"
 institution: "Uniwersytet Warszawski"
