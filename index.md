@@ -29,3 +29,10 @@ Zaprzaszamy do przeglądania internetowej księgi abstraktów 5. edycji konferen
 * Justyna Gwoździk, [Jak przygotować się do przeprowadzania badań językoznawczych w więzieniu – główne założenia i wstępne ustalenia projektu dotyczącego wpływu gwary więziennej na proces resocjalizacji](gwozdzik)
 
 ## Dzień drugi (31 maja 2026)
+
+### PANEL 4 | **Komunikacja w edukacji**
+
+* Weronika Uchnast, [Czy Twój bank mówi do Ciebie po ludzku? Analiza komunikacji bankowej z perspektywy standardu prostego języka](uchnast)
+* Aleksandra Mahmud, [Prosty język i komunikowanie w organizacjach pozarządowych na przykładzie Fundacji Teatr 21](mahmud)
+* Karolina Trzaskowska, [Język kultury czy narzędzie rehabilitacji? Proces prawnego uznania islandzkiego języka migowego](trzaskowska)
+* Katarzyna Samoń, Klaudia Celińska, [NJPJO kontekście medycznym: rozwijanie kompetencji językowych dla skutecznej komunikacji klinicznej](samon-celinska)
