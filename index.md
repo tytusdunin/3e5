@@ -2,12 +2,12 @@
 Poniżej znajduje się interaktywna księga abstraktów.
 
 ## Dzień pierwszy (30 maja 2026)
-
+Wykład ekspercki:
 * [dr Emilia Bańczyk, Efektowne etykiety, nieetyczne skutki...](banczyk)
 
 
 ### PANEL 1 | **Komunikacja w edukacji**
-* [Tytus Dunin, Laura Krawiec, To były moje wszystkie argumenty, które mogłem wymyślić do tak...](dunin-krawiec)
+* [Tytus Dunin, Laura Krawiec, „To były moje wszystkie argumenty, które mogłem wymyślić do tak beznadziejnego tematu” – analiza stylometryczna wypowiedzi argumentacyjnych uczniów szkół podstawowych](dunin-krawiec)
 * [Oliwia Doszczak, Język przestrzeni a poczucie przynależności](doszczak)
 * [Klaudia Piskorz, Stara polszczyzna, nowe wyzwania](piskorz)
 
@@ -19,12 +19,11 @@ Poniżej znajduje się interaktywna księga abstraktów.
 * [Weronika Sudoł, Strategie językowe w konstruowaniu wizerunku...](sudol)
 * [Michalina Buler, A kto z nami nie wypije, tego smog zabije!...](buler)
 
-***
-
+Warsztaty eksperckie:
 * [dr Marcin Bedkowski, Strategie i paradoksy szukania wspólnego języka...](bedkowski)
 
 ### PANEL 3 | **Komunikacja empatyczna”**
-* [Marta Okońska, Komunikacja w rodzinie a motywacje wolontariuszy ...](okonska)
+* [Marta Okońska, Komunikacja w rodzinie a motywacje wolontariuszy...](okonska)
 * [Gabriela Klasa, Między stygmatem a inkluzywnością...](klasa)
 * [Agata Barszcz, Między godnością a bezradnością..](barszcz)
 * [Maciej Bukarewicz, Granice etycznej komunikacji...](bukarewicz)
