@@ -10,7 +10,7 @@ Zaprzaszamy do przeglądania internetowej księgi abstraktów 5. edycji konferen
 
 ### PANEL 1 | **Komunikacja w edukacji**
 * Tytus Dunin, Laura Krawiec, [„To były moje wszystkie argumenty, które mogłem wymyślić do tak beznadziejnego tematu” – analiza stylometryczna wypowiedzi argumentacyjnych uczniów szkół podstawowych](dunin-krawiec)
-* Oliwia Doszczak, [Język przestrzeni a poczucie przynależności – linguistic landscape Uniwersytetu Opolskiego, a potrzeby studentów zagranicznych](doszczak)
+* Oliwia Doszczak, [Język przestrzeni a poczucie przynależności – linguistic landscape Uniwersytetu Opolskiego a potrzeby studentów zagranicznych](doszczak)
 * Klaudia Piskorz, [Stara polszczyzna, nowe wyzwania – o miejscu dawnej polszczyzny w świadomości studentów uczących się języka polskiego jako obcego](piskorz)
 
 ### PANEL 2 | **Komunikacja w mediach i reklamie**
@@ -18,7 +18,7 @@ Zaprzaszamy do przeglądania internetowej księgi abstraktów 5. edycji konferen
 * Maria Terlikowska, [Odrzucone, zapomniane. Analiza modelu opowieści o migracji w tekstach skierowanych do dzieci.](terlikowska)
 * Paulina Jarosz, [Przykład przekładu ostatecznego. Chwyty retoryczne wykorzystywane podczas promocji książki „Anne z Zielonych Szczytów” Lucy Maud Montgomery](jarosz)
 * Marta Szafrańska, [Etyka nostalgii. Refleksyjny model komunikacji z przeszłością w „Zimie” Andrzeja Stasiuka jako alternatywa dla narracji politycznych](szafranska)
-* Weronika Sudoł, [Strategie językowe w konstruowaniu wizerunku Karola Nawrockiego w czasie kampanii prezydenckiej 2025](sudol)
+* Wiktoria Sudoł, [Strategie językowe w konstruowaniu wizerunku Karola Nawrockiego w czasie kampanii prezydenckiej 2025](sudol)
 * Michalina Buler, [A kto z nami nie wypije, tego smog zabije!, czyli karnawalizacja protestu w sloganach z polskich i francuskich młodzieżowych strajków ekologicznych](buler)
 
 ### PANEL 3 | **Komunikacja empatyczna**

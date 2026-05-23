@@ -1,6 +1,6 @@
 ---
 layout: abstract
-title: "Język przestrzeni a poczucie przynależności – linguistic landscape Uniwersytetu Opolskiego, a potrzeby studentów zagranicznych"
+title: "Język przestrzeni a poczucie przynależności – linguistic landscape Uniwersytetu Opolskiego a potrzeby studentów zagranicznych"
 authors:
   - "Oliwia Doszczak"
 institution: "Uniwersytet Opolski"
